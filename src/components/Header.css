@@ -1,0 +1,17 @@
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px 0 10px;
+}
+
+.navLeft {
+  display: inline-block;
+}
+
+.navRight {
+  display: inline-block;
+}
+
+.link {
+  margin-right: 10px;
+}

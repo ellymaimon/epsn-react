@@ -1,0 +1,6 @@
+.bodyContainer {
+  display: grid;
+  grid-template-columns: 15% 60% 25%;
+  width: 1200px;
+  margin: 0 auto;
+}
